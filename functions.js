@@ -120,3 +120,6 @@ console.log(aleatorio);
 //Arredondar valores para inteiros.
 const numero = 4.7; 
 console.log(Math.floor(numero)); // 4
+
+
+//Nome: Jéssica de Souza Garcia RA: 39B2A
